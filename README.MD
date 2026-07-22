@@ -39,15 +39,8 @@ Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | crie um título de um ebook sobre o tema de inglês para viagens, o ebook é do nicho de inglês e o subnicho é para viagens, o título deve ser épico e curto, e tenha uma temática de astronauta, nerd, e viagens. Me dê 5 opções de títulos.                                               |
-| conteúdo | Faça um texto para ebook, com foco em inglês para viagem.
-O título é: "PASSAPORTE INTERESTELAR - VIAJE SEM FRONTEIRAS COM A BOXLESS ENGLISH".
-Liste os principais documentos para uma viagem internacional com exemplos de quando e onde a pessoa irá utilizar termos em inglês.
-{REGRAS}
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto
-> Sempre traga exemplos de uso de inglês em contextos reais
-> Sempre deixe um título sugestivo por tópico. 
+|  título  | crie um título de um ebook sobre o tema de inglês para viagens, o ebook é do nicho de inglês e o subnicho é para viagens, o título deve ser épico e curto, e tenha uma temática de astronauta, nerd, e viagens. ,e dê 5 opções de títulos.                                               |
+| conteúdo | Faça um texto para ebook, com foco em inglês para viagem. O título é: "PASSAPORTE INTERESTELAR - VIAJE SEM FRONTEIRAS COM A BOXLESS ENGLISH". Liste os principais documentos para uma viagem internacional com exemplos de quando e onde a pessoa irá utilizar termos em inglês. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos de uso de inglês em contextos reais > Sempre deixe um título sugestivo por tópico. 
 
 |
 
@@ -56,8 +49,7 @@ Gemini para criação de imagem：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem para capa de um ebook com a temática de inglês para viagens. Apenas para sua informação: o título e o subtítulo serão: "PASSAPORTE INTERESTELAR - VIAJE SEM FRONTEIRAS COM A BOXLESS ENGLISH"
-Mas eu gostaria APENAS da imagem, sem o título e sem o subtítulo, pixel art style --v 5.1 |
+| título | Crie uma imagem para capa de um ebook com a temática de inglês para viagens. Apenas para sua informação: o título e o subtítulo serão: "PASSAPORTE INTERESTELAR - VIAJE SEM FRONTEIRAS COM A BOXLESS ENGLISH". Eu gostaria APENAS da imagem, sem o título e sem o subtítulo, pixel art style --v 5.1 |
 
 ## ✨ Features
 
